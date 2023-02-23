@@ -1,0 +1,18 @@
+gspread
+gspread_dataframe
+pyTelegramBotAPI
+kafka-python
+redis
+scikit-learn
+numpy
+pandas
+matplotlib
+bs4
+scipy
+requests
+seaborn
+faker
+# psycopg2
+elasticsearch
+pyspark
+jupyter
